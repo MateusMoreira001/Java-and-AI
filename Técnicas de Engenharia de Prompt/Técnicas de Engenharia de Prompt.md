@@ -76,7 +76,7 @@ Thiago descobre um mapa que leva ao artefato mágico *Luz de Alvorada*, numa ave
 
 ## 💡 Sugestões para começar agora:
 
-- Teste sua história inicial com ferramentas gratuitas como **Twine**.
+- Teste sua história inicial com ferramentas gratuitas como **ChatGPT**.
 - Adicione ilustrações simples para maior imersão.
 - Crie um "Diário de Thiago" como recurso narrativo adicional para engajar jogadores.
 
